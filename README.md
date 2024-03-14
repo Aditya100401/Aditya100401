@@ -74,21 +74,12 @@
 
 ---
 
-<div align="center">
-<table><tr>
-<td>
-
 ### 📊 GitHub Stats
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" />
-
-</td>
-<td>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark" />
-
-</td>
-</tr></table>
 </div>
 
-
+### 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark" />
+</div>
