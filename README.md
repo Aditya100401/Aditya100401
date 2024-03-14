@@ -1,9 +1,6 @@
 <div align="center">
   
-### Hi there 👋, I'm [Your Name Here]
-
-<a href="https://github.com/Aditya100401">
-<img src="https://img.shields.io/github/stars/yourgithubusername/yourrepository?style=social" alt="Star me"/>
+### Hi there 👋, I'm Aditya Sampath
 </a>
 
 </div>
