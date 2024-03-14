@@ -1,4 +1,12 @@
-### Hi there 👋, I'm Aditya Sampath
+<div align="center">
+  
+### Hi there 👋, I'm [Your Name Here]
+
+<a href="https://github.com/yourgithubusername/yourrepository">
+<img src="https://img.shields.io/github/stars/yourgithubusername/yourrepository?style=social" alt="Star me"/>
+</a>
+
+</div>
 
 ---
 
