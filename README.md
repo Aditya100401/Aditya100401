@@ -81,10 +81,10 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya100401&show_icons=true&theme=radical" />
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya100401&theme=onedark" />
 </div>
