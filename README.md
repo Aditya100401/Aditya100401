@@ -10,7 +10,7 @@
 #### 🙋‍♂️ About Me
 - I am a a graduate student at UNC Charlotte
 - A passionate coder who loves solving problems
-- I am currently working on building agentic workflows and quriky side projects something like [Dinoki](https://dinoki.ai/)
+- I am currently working on building agentic workflows and quriky side projects, planning to **build something** like [Dinoki](https://dinoki.ai/)
 
 #### 🌱 Interests
 - Love solving problems
