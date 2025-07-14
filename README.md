@@ -10,10 +10,10 @@
 #### 🙋‍♂️ About Me
 - I am a a graduate student at UNC Charlotte
 - A passionate coder who loves solving problems
-- I am currently working on projects in Machine Learning (Using Graph Neural Nets and Model Deployment), and also in Data Visualization (Using Tableau and D3.js). 
+- I am currently working on building agentic workflows and quriky side projects something like [Dinoki](https://dinoki.ai/)
 
 #### 🌱 Interests
-- Love solve problems
+- Love solving problems
 - Football
 - Travel
 
@@ -46,6 +46,8 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
+<img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" alt="LangChain" height="28"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 <br>
 
 #### Database and Visualization
