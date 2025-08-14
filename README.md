@@ -8,7 +8,7 @@
 ---
 
 #### 🙋‍♂️ About Me
-- I am a a graduate student at UNC Charlotte
+- I am a CS graduate from UNC Charlotte
 - A passionate coder who loves solving problems
 - I am currently working on building agentic workflows and quriky side projects
 
